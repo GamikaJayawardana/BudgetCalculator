@@ -11,10 +11,6 @@ struct transaction
     float amount;
 };
 
-
-
-
-
 struct user
 {
     char username[50];
