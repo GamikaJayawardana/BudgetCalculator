@@ -1,0 +1,1 @@
+// Add a space before %c to consume the newline character
