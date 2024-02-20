@@ -4,6 +4,8 @@
 #include <stdbool.h>
 #include <time.h>
 
+
+
 struct transaction
 {
     char date[20];
